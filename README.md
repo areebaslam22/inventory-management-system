@@ -14,7 +14,7 @@ It allows management of items such as laptops, PCs, and phones.
 - Data Structures (AVL Tree, Linked List)  
 - File Handling  
   ## Documentation
-Detailed documentation of this project is available in the folder:
+Detailed documentation of this project is available in the folder:  https://github.com/areebaslam22/inventory-management-system-doc.git
 
 
 ## How to Run
